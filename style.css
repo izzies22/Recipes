@@ -1,0 +1,26 @@
+body{
+	background-color: #F3D9DC;
+}
+
+#crumbl {
+
+	width:  750px;
+	height:  500px;
+
+}
+
+#crumblBackground{
+
+	background-color:  #A8D5E2;
+}
+
+#christmasBackground{
+	background-color: #BFD1E5;
+}
+#mint{
+	border: 5px solid;
+}
+
+#sushiBackground{
+	background-color: #CDE6F5;
+}
